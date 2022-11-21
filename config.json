@@ -1,0 +1,5 @@
+{
+    "CLIENT_ID":"468b8b024bfb41d5b1957dad2afc766a",
+    "CLIENT_SECRET":"8827668f8ed64f13bf8c2e83781c3997",
+    "REDIRECT_URI": "http://localhost:8080"
+}
